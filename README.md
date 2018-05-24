@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # parcel-scss-starter
 
 #### 0. Clone repo
@@ -16,3 +17,6 @@ yarn start
 ```
 
 Go to `http://localhost:1234`
+=======
+# learn-css-grid
+>>>>>>> 9c2e81501ec474031b97188997bac29da065dd94
